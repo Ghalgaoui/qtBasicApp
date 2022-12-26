@@ -1,0 +1,2 @@
+# qtBasicApp
+Basic Qt Application 
