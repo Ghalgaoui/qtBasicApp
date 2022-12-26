@@ -5,10 +5,10 @@ Basic Qt Application
 git clone https://github.com/Ghalgaoui/qtBasicApp.git
 
 # build project
-$mkdir build
-$cd build
-$cmake ../
-$make 
+mkdir build \
+cd build \
+cmake ../ \
+make 
 
 # Run application 
 ./basicQtApp
