@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iset_rades.jpeg</file>
+        <file>otto_es.jpeg</file>
+    </qresource>
+</RCC>
