@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>iset_rades.jpeg</file>
         <file>otto_es.jpeg</file>
+        <file>montaha.jpeg</file>
+        <file>nour.jpeg</file>
     </qresource>
 </RCC>
